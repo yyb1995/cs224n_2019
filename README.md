@@ -1,0 +1,1 @@
+This is a learning repository for CS224N_2019. It includes most of the meterials and my solution to assignments. It's now updating.
